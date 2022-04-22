@@ -1,0 +1,9 @@
+---
+title: "My own RMarkdown file"
+output: html_document
+author: Laurine Seelt
+Dat: "`r sys.Date()`"
+---
+
+This is my first RMarkdown file tracked by Git!!
+Nu proberen 'm te comitten en te pushen :)
