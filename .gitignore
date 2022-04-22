@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Excel files in the Data directory
-Data/*.xlsx
+Data/**
